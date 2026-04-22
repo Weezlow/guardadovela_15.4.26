@@ -18,10 +18,17 @@ body{
     text-align: center;
 }
 
+.hidden{
+    display: none;
+}
+
 #lienzo-uno{
     border: 2px solid lime;
 }
 
+#lienzo-dos-hidden{
+    border: 2px solid #ffa239;
+}
 #lienzo-dos{
     border: 2px solid #FF3131;
 }
